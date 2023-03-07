@@ -1,0 +1,12 @@
+D:\Users\S-PC\source\repos\OOP_Projekt2_NikitaSkakun58524\OOP_Projekt2_NikitaSkakun58524\bin\Debug\OOP_Projekt2_NikitaSkakun58524.exe.config
+D:\Users\S-PC\source\repos\OOP_Projekt2_NikitaSkakun58524\OOP_Projekt2_NikitaSkakun58524\bin\Debug\OOP_Projekt2_NikitaSkakun58524.exe
+D:\Users\S-PC\source\repos\OOP_Projekt2_NikitaSkakun58524\OOP_Projekt2_NikitaSkakun58524\bin\Debug\OOP_Projekt2_NikitaSkakun58524.pdb
+D:\Users\S-PC\source\repos\OOP_Projekt2_NikitaSkakun58524\OOP_Projekt2_NikitaSkakun58524\obj\Debug\OOP_Projekt2_NikitaSkakun58524.csproj.AssemblyReference.cache
+D:\Users\S-PC\source\repos\OOP_Projekt2_NikitaSkakun58524\OOP_Projekt2_NikitaSkakun58524\obj\Debug\OOP_Projekt2_NikitaSkakun58524.Prezenter.resources
+D:\Users\S-PC\source\repos\OOP_Projekt2_NikitaSkakun58524\OOP_Projekt2_NikitaSkakun58524\obj\Debug\OOP_Projekt2_NikitaSkakun58524.Properties.Resources.resources
+D:\Users\S-PC\source\repos\OOP_Projekt2_NikitaSkakun58524\OOP_Projekt2_NikitaSkakun58524\obj\Debug\OOP_Projekt2_NikitaSkakun58524.csproj.GenerateResource.cache
+D:\Users\S-PC\source\repos\OOP_Projekt2_NikitaSkakun58524\OOP_Projekt2_NikitaSkakun58524\obj\Debug\OOP_Projekt2_NikitaSkakun58524.csproj.CoreCompileInputs.cache
+D:\Users\S-PC\source\repos\OOP_Projekt2_NikitaSkakun58524\OOP_Projekt2_NikitaSkakun58524\obj\Debug\OOP_Projekt2_NikitaSkakun58524.exe
+D:\Users\S-PC\source\repos\OOP_Projekt2_NikitaSkakun58524\OOP_Projekt2_NikitaSkakun58524\obj\Debug\OOP_Projekt2_NikitaSkakun58524.pdb
+D:\Users\S-PC\source\repos\OOP_Projekt2_NikitaSkakun58524\OOP_Projekt2_NikitaSkakun58524\obj\Debug\OOP_Projekt2_NikitaSkakun58524.PrezentacjaZeSlajderem.resources
+D:\Users\S-PC\source\repos\OOP_Projekt2_NikitaSkakun58524\OOP_Projekt2_NikitaSkakun58524\obj\Debug\OOP_Projekt2_NikitaSkakun58524.KreślenieFigurLinii.resources
